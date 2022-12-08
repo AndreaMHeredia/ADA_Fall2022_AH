@@ -1,0 +1,251 @@
+---
+title: "Final Project Analysis"
+author: "AHeredia"
+date: "2022-11-29"
+output: html_document
+---
+Installing packages and libraries
+```{r}
+pacman::p_load(haven, readr, dplyr, openxlsx, readxl, ggplot2, tidyverse, table1, tidyr, aod, DiagrammeR, finalfit, odds.n.ends,readr, broom, car)
+```
+
+Read data sets
+```{r}
+Demo <- read.csv("C:/Users/andre/Desktop/WashU/WashU 2nd Year/Fall 2022/Advanced Data Analysis/Final Project/RQ and Datasets identified/Demo.csv")
+
+Ferritin <- read.csv("C:/Users/andre/Desktop/WashU/WashU 2nd Year/Fall 2022/Advanced Data Analysis/Final Project/RQ and Datasets identified/Ferritin.csv")
+
+IndSupp <- read.csv("C:/Users/andre/Desktop/WashU/WashU 2nd Year/Fall 2022/Advanced Data Analysis/Final Project/RQ and Datasets identified/IndSupp.csv")
+```
+
+Merge data sets (DFI = Demographics Ferritin Individual Supplements)
+```{r}
+DemoFe <- merge(Demo,Ferritin, by="ID") ##merging demographic data with Ferritin levels data
+
+DFI <- merge(DemoFe, IndSupp, by="ID") ##merging new data frame (Demo+Ferritin) with Individual Supplement data
+
+remove(Demo,Ferritin, IndSupp, DemoFe) ##remove data sets that are not needed anymore
+```
+
+Keeping only variables to be used in analysis
+```{r}
+colnames(DFI)
+
+DFI<-rename(DFI, c("FeLevels" = "LBDFERSI..ug.L.",
+                 "Age" = "RIDAGEYR",
+                 "Gender" = "RIAGENDR",
+                 "VitC" = "DSQIVC",
+                 "Iron" = "DSQIIRON"
+                 ))
+
+DataSet1 <- select(DFI, "ID","Age", "Gender", "FeLevels", "VitC", "Iron")#keeping only variables that will be used in analysis
+
+remove(DFI) ##remove data set that is not needed anymore
+```
+
+Removing cases with NA's
+```{r}
+summary(DataSet1)
+#FeLevels: 1011 NA'S
+#VitC: 10073 NA's
+#Iron: 12997 NA's
+DataSet2<- drop_na(DataSet1, "FeLevels","Iron")##no NA's 
+
+#only dropping NA's in Iron and FeLevels . FeLevels is the outcome variable and Iron the main exposure, which will be moderated by age, gender and vitC (main moderator of interest). NA's in VitC will be coded as 0 = people do not take vitc OR did not provide info
+```
+
+
+Logistic regression to see if taking iron supplements can predict if someone will be iron deficient
+```{r}
+summary(DataSet2)
+#n=1573
+
+#recoding outcome variables 0= >15ug/L = "Non-iron deficient" // 1= <15ug/L = "Iron-deficient"
+DataSet2 <- DataSet2%>%
+  mutate(FeLevels = case_when(FeLevels >= 15  ~ 0,
+                          FeLevels < 14.9 ~ 1 ),
+         FeLevels_Cat = factor(FeLevels, 0:1, c("Non-Iron-Deficient", "Iron-Deficient"))) 
+
+summary(DataSet2)#2 NA's show up on FeLevels, so we proceed to remove them
+DataSet3<-drop_na(DataSet2, "FeLevels")
+summary(DataSet3)
+
+#convert FeLevels to factor "FeLevels_Rec"
+DataSet3$FeLevels_Rec <- factor(DataSet3$FeLevels)
+
+
+#integers as numeric, and recoding gender
+DataSet3$ID<-as.numeric(DataSet3$ID)
+DataSet3$Gender<-as.numeric(DataSet3$Gender)
+DataSet3$Age<-as.numeric(DataSet3$Age)
+DataSet3$Gen_Rec<-as.numeric(DataSet3$Gender)
+
+DataSet3 <- DataSet3 %>%
+  mutate(Gen_Rec = case_when(Gen_Rec == 1 ~ 0,
+                             Gen_Rec == 2 ~ 1),
+         Gen_Cat = factor(Gen_Rec, 0:1, c("Male", "Female")))#Males are 0; Females are 1
+
+#gender_rec as factor for analysis
+DataSet3$Gen_Rec <- factor(DataSet3$Gen_Rec)
+
+summary(DataSet3)
+#recoding age variable to 5 different categories
+DataSet3 <- DataSet3 %>%
+  mutate(Age_Rec = case_when(Age > 0 & Age < 10 ~ 0,
+                             Age >= 11 & Age < 20 ~ 1,
+                             Age >= 21 & Age < 30 ~ 2,
+                             Age >= 31 & Age < 40 ~ 3,
+                             Age >= 41 & Age < 50 ~ 4,
+                             Age >= 50 ~ 5),
+         Age_Cat = factor(Age_Rec, 0:5, c("1-10", "11-20", "21-30", "31- 40", "41-50", ">50"))) #make it as a factor variable
+
+#Age_rec as factor for analysis
+DataSet3$Age_Rec <- factor(DataSet3$Age_Rec)
+
+summary(DataSet3)
+#recoding VitC variable to 2 categories
+DataSet3$VitC[is.na(DataSet3$VitC)] = 0 #converting NA's to 0's
+
+DataSet3 <- DataSet3 %>%
+  mutate(VitC_Rec = case_when(VitC == 0 ~ 0,
+                          VitC > 0 ~ 1),
+        VitC_Cat = factor(VitC_Rec, 0:1, c("Does Not Take VitC", "Takes VitC"))) #make it as a factor variable >0=takes VitC; 1=Does NOT take VitC
+
+#VitC_Rec as factor for analysis
+DataSet3$VitC_Rec <- factor(DataSet3$VitC_Rec)
+```
+
+```{r}
+# visualize FeLevels use by Iron using a box plots
+summary(DataSet3)
+# a 
+YN<-DataSet3 %>% drop_na(FeLevels_Rec) %>%
+  ggplot() +
+  geom_boxplot(aes(x=Iron, y=FeLevels_Rec, fill=Iron)) +
+  theme_bw() + xlab("Iron Supplement") + ylab("Iron-deficient (No/Yes)")
+YN
+# There should be a positive association between Iron and Ferritin Levels.
+by(DataSet3$Iron,DataSet3$FeLevels_Rec, summary)
+```
+
+```{r}
+# box tidwell technique, test the assumption of linearity
+DataSet3$Iron_times_log_bmi<-DataSet3$Iron *log(DataSet3$Iron)
+TestModel<-glm(FeLevels_Rec ~ Iron + Iron_times_log_bmi, data=DataSet3, family="binomial")
+summary(TestModel)
+# Since the p-value for Iron_times_log_bmi <.05. we conclude the assumption is violated.If we take 0.05 as our cutoff threshold
+```
+```{r}
+####check classification
+table(DataSet3$FeLevels_Rec, DataSet3$FeLevels, useNA="always")
+```
+Running an univariate logistic regression of the association between FeLevels category and `Iron` and output a summary using the summary function.**
+```{r, echo=FALSE, eval=FALSE}
+LR1<-glm(FeLevels ~ Iron, data=DataSet3, family="binomial") 
+summary(LR1)
+odds.n.ends(LR1)
+
+###Interpretation: for every unit increase in Iron, the odds of being iron deficient increase by 1.2% (95%CI 1.01-1.02)
+#as iron levels go up the odds of being iron deficient go up. 
+```
+Logistic regression 2 just with iron and gender recoded. Reference group is 0 (males and non-iron deficient) reference group is lowest coding category
+```{r}
+LR2 <- glm(FeLevels ~ Iron + Gen_Rec, data = DataSet3, family = "binomial")
+summary(LR2)
+confint(LR2)
+exp(cbind(OR = coef(LR2), confint(LR2)))
+
+odds.n.ends(LR2)
+#controlling for iron levels, women relative to men have 8.17 times the odds of being iron deficient
+```
+Logistic regression 3 with iron, gender recoded and age recoded
+```{r}
+LR3 <- glm(FeLevels ~ Iron + Gen_Rec + Age_Rec, data = DataSet3, family = "binomial")
+summary(LR3)
+confint(LR3)
+exp(cbind(OR = coef(LR3), confint(LR3)))
+odds.n.ends(LR3)
+##compared to those who are 1-10 years old the odds of being iron deficient are 5.43 times higher than those who are 11-20
+
+```
+Logistic regression 4  with iron,gender recoded, age recoded, and Vitamin C recoded
+```{r}
+LR4 <- glm(FeLevels ~ Iron + Gen_Rec + Age_Rec + VitC_Rec, data = DataSet3, family = "binomial")
+summary(LR4)
+confint(LR4)
+exp(cbind(OR = coef(LR4), confint(LR4)))
+odds.n.ends(LR4)
+###After adjusting for all the variables the total effect of iron on felevels is no longer significant. 
+```
+Testing interaction between gender and age: does the association we see on iron and felevels vary on gender? is taking iron different for men? or women? no difference?
+```{r}
+LR5 <- glm(FeLevels ~ Iron*Gen_Rec + Age_Rec + VitC_Rec, data = DataSet3, family = "binomial")
+summary(LR5)
+odds.n.ends(LR5)
+#the effect on iron does not depend on gender
+```
+
+Testing interaction between gender, age, and vitamin C intake: does the association we see on iron and felevels vary on gender? on gender and age? on gender, age, and vitamin C intake? no difference?
+```{r}
+LR6 <- glm(FeLevels ~ Iron + Gen_Rec*Age_Rec*VitC_Rec, data = DataSet3, family = "binomial")
+summary(LR6)
+odds.n.ends(LR6)
+```
+
+```{r}
+# Compare the coefficients between models with and without these observations
+compareCoefs(LR1, LR2, LR3, LR4, LR5, LR6)
+```
+Probability plots
+```{r}
+odds.n.ends(LR1, predProbPlot=TRUE, rocPlot=TRUE)
+odds.n.ends(LR2, predProbPlot=TRUE, rocPlot=TRUE)
+odds.n.ends(LR3, predProbPlot=TRUE, rocPlot=TRUE)
+odds.n.ends(LR4, predProbPlot=TRUE, rocPlot=TRUE)
+odds.n.ends(LR5, predProbPlot=TRUE, rocPlot=TRUE)
+odds.n.ends(LR6, predProbPlot=TRUE, rocPlot=TRUE)
+```
+Exporting dataset 
+```{r}
+write.csv(DataSet3,"C:/Users/andre/Desktop/WashU/WashU 2nd Year/Fall 2022/Advanced Data Analysis/Final Project/Abstract/DataSet.csv", row.names = FALSE)
+```
+
+Data visualization
+```{r}
+#Data visualization
+label(DataSet3$Gen_Cat)<-"Gender"
+label(DataSet3$Age_Cat)<-"Age (Years)"
+label(DataSet3$VitC_Cat)<-"Vitamin C"
+
+table1(~ Iron + Gen_Cat + Age_Cat + VitC_Cat | FeLevels_Cat, overall="Total",rowlabelhead="Variable",footnote='Reference categories = Male, 1-10, and Does Not Take VitC', data=DataSet3)
+
+
+
+#PLOTTING LOGISTIC REGRESSION CURVE
+ggplot(DataSet3, aes(x=Iron, y=FeLevels)) +
+  geom_point(alpha=.5) +
+  stat_smooth(method="glm", se=T, method.args = list(family=binomial),
+              col="red", lty=2)
+
+table(DataSet3$FeLevels_Rec, useNA = 'ifany')
+```
+```{r}
+library(DiagrammeR)
+#Figure 1
+grViz("digraph flowchart {
+
+      # node definitions with substituted label text
+      node [fontname = Helvetica, shape = rectangle, fontsize=8] 
+      # notes indicate how many boxes you will have in your diagram. Since I have two sets of exclusions, I will have three nodes.
+      tab1 [label = '@@1'] # starting
+      tab2 [label = '@@2'] # exclusion 1
+     
+      
+      # edge definitions with the node IDs are used to indicate how the rectangle boxes flow from each other. This is a simple flow chart but I could create branching instead as below
+      tab1 -> tab2 
+}
+      #This set of code provides the text in each rectangle box.
+      [1]: 'Secondary data from NHANES for people whose Ferritin levels were measured, had taken Iron and Vitamin C as oral supplements n=14,696'
+      [2]: 'Excluding 13,123 individuals who had missing data on the Ferritin levels, and Iron columns n=1,571'
+      ")
+```
