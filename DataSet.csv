@@ -1,0 +1,1572 @@
+"ID","Age","Gender","FeLevels","VitC","Iron","FeLevels_Cat","FeLevels_Rec","Gen_Rec","Gen_Cat","Age_Rec","Age_Cat","VitC_Rec","VitC_Cat","Iron_times_log_bmi"
+109284,44,2,1,60,18,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",52.026691642131
+109286,33,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+109290,68,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109291,42,2,0,0,130,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+109291,42,2,0,90,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+109295,54,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+109317,28,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+109323,22,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","2","21-30","0","Does Not Take VitC",1.55806842393169
+109330,76,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109348,63,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109367,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109387,17,2,1,0,195,"Iron-Deficient","1","1","Female","1","11-20","0","Does Not Take VitC",1028.23491391993
+109389,56,1,0,0,18,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",52.026691642131
+109395,56,1,0,200,12,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",29.818879797456
+109397,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+109414,62,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+109426,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109432,44,2,0,120,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+109457,76,1,0,2,1.44,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",0.525086083566589
+109466,40,1,0,90,8,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",16.6355323334387
+109469,3,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+109482,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+109503,71,1,0,0,9,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",19.775021196026
+109512,42,1,0,90,8,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",16.6355323334387
+109513,48,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+109526,31,2,0,84,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+109532,70,1,0,0,2,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",1.38629436111989
+109552,74,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109557,17,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+109558,57,1,0,1000,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109562,80,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109563,36,2,0,60,8,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",16.6355323334387
+109567,49,1,0,100,3,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",3.29583686600433
+109568,32,2,0,0,195,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",1028.23491391993
+109570,78,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+109570,78,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109574,55,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+109577,74,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+109587,74,2,0,90,10,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",23.0258509299405
+109606,32,2,0,30,9,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",19.775021196026
+109630,56,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109634,62,2,0,0,0.72,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.236522928219866
+109634,62,2,0,120,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+109635,40,2,0,150,6,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",10.7505568153683
+109649,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109653,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+109657,33,2,0,60,3,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",3.29583686600433
+109674,4,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+109677,76,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+109709,52,1,0,2,1.6,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",0.752005806793177
+109742,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+109800,31,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+109812,72,2,0,240,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+109814,29,2,0,150,6,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",10.7505568153683
+109832,5,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+109839,66,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109841,54,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+109845,77,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+109862,41,2,1,0,130,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+109863,64,2,0,0,1,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",0
+109863,64,2,0,0,18,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",52.026691642131
+109873,18,2,1,60,18,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",52.026691642131
+109874,55,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+109876,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+109886,64,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109898,48,2,0,150,6,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",10.7505568153683
+109915,58,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109917,54,2,0,125,3.75,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",4.9565843999337
+109918,66,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+109926,45,2,0,100,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+109937,74,1,0,0,16,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",44.3614195558365
+109959,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+109962,76,1,0,60,3,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",3.29583686600433
+109971,58,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+109975,39,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+109976,58,1,0,90,9,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",19.775021196026
+109999,47,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+110002,16,1,0,60,25,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",80.471895621705
+110006,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+110012,56,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+110023,62,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110036,50,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+110037,69,1,0,0,1.4,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",0.471061131269698
+110045,69,2,0,150,10,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",23.0258509299405
+110059,38,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+110071,59,1,0,57,16,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",44.3614195558365
+110102,45,2,0,1,4,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",5.54517744447956
+110109,17,2,1,0,65,"Iron-Deficient","1","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+110115,4,2,0,120,36,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",129.00668178442
+110120,34,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+110134,49,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+110137,52,1,0,0,0.2,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.32188758248682
+110147,60,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+110156,1,2,0,0,44,"Non-Iron-Deficient","0","1","Female","0","1-10","0","Does Not Take VitC",166.504343892403
+110162,15,1,0,0,4.5,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",6.76834828549323
+110162,15,1,0,150,9,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",19.775021196026
+110167,29,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+110170,4,1,0,0,9,"Non-Iron-Deficient","0","0","Male","0","1-10","0","Does Not Take VitC",19.775021196026
+110180,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110188,63,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+110191,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110200,60,2,0,150,20,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",59.9146454710798
+110208,57,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110214,32,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+110221,80,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110223,71,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+110228,44,1,0,1000,1,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",0
+110232,62,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+110243,29,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+110273,75,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110287,68,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110289,36,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+110292,79,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110295,77,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110305,19,2,0,200,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+110319,34,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",1.38646367833791
+110351,49,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+110378,44,2,1,50,2,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",1.38629436111989
+110378,44,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+110386,75,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110394,40,1,0,100,2.5,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",2.29072682968539
+110419,35,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+110421,74,2,0,45,1,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0
+110422,47,1,0,57,16,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",44.3614195558365
+110422,47,1,0,0,0.7,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",-0.249672460757113
+110422,47,1,0,0,18,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",52.026691642131
+110426,62,1,0,0,0.33,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.365858666092132
+110443,71,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110457,29,1,0,0,4.2,"Non-Iron-Deficient","0","0","Male","2","21-30","0","Does Not Take VitC",6.02735500621516
+110481,15,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+110497,18,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+110515,55,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110517,16,2,0,0,130,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",632.779478559226
+110518,57,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110522,64,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+110527,39,2,0,30,9,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",19.775021196026
+110531,68,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+110538,63,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+110615,75,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+110628,63,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110628,63,2,0,20,0.9999,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",-9.9994999833314e-05
+110629,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+110638,60,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+110663,59,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+110709,70,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110710,69,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110711,40,2,0,65,27,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",88.9875953821169
+110720,16,1,0,120,36,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",129.00668178442
+110744,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110762,66,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110778,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110779,70,2,0,100,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+110784,32,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+110796,50,2,0,90,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+110805,64,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+110819,35,2,0,50,2,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",1.38629436111989
+110835,50,2,1,60,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+110881,29,2,1,0,65,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+110894,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110895,18,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+110898,41,1,0,0,100,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",460.517018598809
+110905,42,2,0,84,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+110909,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110915,80,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+110916,33,2,1,120,28,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+110925,80,1,0,0,50,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",195.601150271407
+110944,73,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+110951,5,2,0,90,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+110953,64,2,0,120,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+110973,72,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+110976,22,2,1,0,65,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+110984,44,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+110991,66,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+110995,28,2,0,0,32.5,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",113.14030290341
+110998,25,2,0,45,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+111006,64,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111006,64,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+111023,61,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111036,75,1,0,0,0.8,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.178514841051368
+111037,34,1,0,60,28,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",93.3017262849057
+111045,38,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+111047,74,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+111058,32,2,0,200,5,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",8.0471895621705
+111058,32,2,0,90,6,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",10.7505568153683
+111089,39,2,0,84,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+111092,66,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111097,77,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+111114,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+111117,60,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111144,80,1,0,150,10,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",23.0258509299405
+111167,16,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+111177,62,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+111196,80,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+111202,49,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+111204,32,2,0,120,35,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",124.437182152129
+111209,31,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+111210,71,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111219,31,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+111232,59,2,0,0,0.08,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.20205829154466
+111234,80,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111235,45,2,0,60,3,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",3.29583686600433
+111241,12,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+111245,75,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111254,39,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+111263,57,1,0,60,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+111269,17,1,0,0,65,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",271.335172543216
+111286,33,1,0,250,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+111286,33,1,0,0,1.4,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",0.471061131269698
+111287,50,1,0,1,4,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",5.54517744447956
+111301,35,2,1,60,18,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+111304,79,1,0,0,1.2,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",0.218785868152746
+111316,39,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+111318,58,2,0,90,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+111318,58,2,0,0,0.8,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.178514841051368
+111364,67,1,0,0,4.2,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",6.02735500621516
+111372,18,1,0,0,5.1,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",8.30912675262443
+111372,18,1,0,0,1.2,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",0.218785868152746
+111411,50,2,0,0,9,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",19.775021196026
+111422,71,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+111425,36,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+111430,28,2,0,0,27,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",88.9875953821169
+111439,80,1,1,380,1.8,"Iron-Deficient","1","0","Male","5",">50","1","Takes VitC",1.05801599682381
+111465,19,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+111465,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+111485,15,2,1,233.35,12.0006,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",29.8209707564456
+111493,74,2,0,180,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111497,36,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+111504,32,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+111504,32,2,0,0,1,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",0
+111510,39,1,0,180,16,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",44.3614195558365
+111514,64,2,0,30,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+111541,27,2,1,0,8,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",16.6355323334387
+111542,53,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+111543,30,2,0,60,6,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",10.7505568153683
+111546,58,1,0,57,16,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",44.3614195558365
+111554,79,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+111556,52,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+111556,52,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+111557,48,2,1,60,8,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",16.6355323334387
+111574,71,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+111582,53,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+111613,40,2,0,30,9,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",19.775021196026
+111616,63,2,0,50,4.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",6.76834828549323
+111629,57,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111630,17,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+111652,23,2,1,0,65,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+111658,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111666,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+111669,45,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+111693,26,2,0,100,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+111728,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111728,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+111731,21,2,1,60,18,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",52.026691642131
+111736,54,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111754,66,2,0,16,1.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.608197662162247
+111756,16,2,1,180,18,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",52.026691642131
+111766,33,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+111783,78,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+111787,57,1,0,100,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+111795,59,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111796,34,1,0,0,0.08,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",-0.20205829154466
+111798,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+111804,60,2,0,20,0.9999,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",-9.9994999833314e-05
+111820,19,2,0,100,13.5,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",35.1363107534992
+111824,63,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111827,40,1,0,90,8,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",16.6355323334387
+111835,72,1,0,150,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111864,34,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+111868,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+111882,64,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+111893,66,2,0,225,4.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",6.76834828549323
+111913,48,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+111918,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+111928,46,2,0,300,27,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",88.9875953821169
+111934,63,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+111943,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+111945,74,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+111960,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+111963,20,2,1,0,65,"Iron-Deficient","1","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+111975,59,2,0,120,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+111980,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+111991,44,2,0,150,22,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",68.002933973883
+112002,33,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+112015,79,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112016,55,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112019,74,2,0,60,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+112027,20,1,0,200,18,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",52.026691642131
+112028,55,2,0,125,2.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",2.29072682968539
+112028,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112031,18,1,0,120,9,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",19.775021196026
+112055,39,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+112078,61,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112079,70,2,0,20,0.9999,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",-9.9994999833314e-05
+112081,74,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",1.55806842393169
+112089,54,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112099,72,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.38646367833791
+112106,30,1,0,0,65,"Non-Iron-Deficient","0","0","Male",NA,NA,"0","Does Not Take VitC",271.335172543216
+112112,3,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+112148,32,2,0,0,0.32,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",-0.364618970620277
+112151,5,2,0,120,36,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",129.00668178442
+112156,43,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+112159,64,1,1,57,16,"Iron-Deficient","1","0","Male","5",">50","1","Takes VitC",44.3614195558365
+112168,55,2,0,60,4.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",6.76834828549323
+112172,17,2,1,120,28,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",93.3017262849057
+112172,17,2,1,0,65,"Iron-Deficient","1","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+112182,41,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+112186,51,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+112187,58,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112190,72,1,0,0,27,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",88.9875953821169
+112194,69,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+112194,69,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112202,5,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+112203,17,2,0,20,0.9999,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",-9.9994999833314e-05
+112212,65,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+112213,39,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+112233,63,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112233,63,2,0,40,2,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.38629436111989
+112251,27,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+112269,71,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112275,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+112285,65,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112287,75,2,0,200,16,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",44.3614195558365
+112295,49,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+112296,41,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+112300,64,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112335,58,2,0,0,45,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",171.299812039664
+112350,48,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+112350,48,2,0,120,36,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",129.00668178442
+112371,23,2,1,0,130,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",632.779478559226
+112391,80,2,0,0,60,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",245.660673733326
+112403,46,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+112409,52,1,0,90,6,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",10.7505568153683
+112415,47,2,0,100,8,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",16.6355323334387
+112433,57,1,0,0,130,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",632.779478559226
+112435,79,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+112436,24,2,0,200,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+112440,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112444,57,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112448,69,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112465,79,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+112469,45,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+112494,56,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112506,48,1,0,90,8,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",16.6355323334387
+112510,68,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112513,66,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112525,65,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112530,70,2,0,60,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+112541,1,1,0,60,16,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",44.3614195558365
+112542,65,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112565,50,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112567,76,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112571,47,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+112578,36,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+112580,58,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112586,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+112590,43,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+112600,62,2,0,60,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+112600,62,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112606,48,2,0,90,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+112610,49,1,0,120,36,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",129.00668178442
+112618,1,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+112619,37,2,0,0,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",88.9875953821169
+112642,74,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+112642,74,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+112667,56,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112668,14,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+112700,51,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112710,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112718,59,1,0,0,0.48,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.352305204038496
+112739,57,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112777,28,1,0,90,8,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",16.6355323334387
+112778,4,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+112795,14,2,1,60,2.5,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",2.29072682968539
+112801,2,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+112815,26,2,0,85,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+112815,26,2,0,100,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+112818,67,2,0,5.6,0.16,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",-0.29321303419973
+112820,59,1,0,30,1.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",0.608197662162247
+112824,64,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112840,54,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+112849,32,2,0,60,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+112851,73,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+112861,48,1,0,0,65,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",271.335172543216
+112864,28,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+112865,50,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.38646367833791
+112866,62,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112877,37,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+112884,27,2,0,200,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+112888,36,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+112899,18,2,0,120,28,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",93.3017262849057
+112908,77,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+112913,64,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+112926,67,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+112931,42,2,0,0,130,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+112931,42,2,0,60,42,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",156.982123967901
+112938,64,2,0,500,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112947,80,2,0,100,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+112947,80,2,0,0,27,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",88.9875953821169
+112958,31,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+112967,53,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+112967,53,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+112983,28,2,0,120,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+112988,51,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113001,51,2,0,0,45,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",171.299812039664
+113007,62,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113021,34,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+113023,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+113061,33,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+113063,57,2,0,60,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+113081,14,2,0,90,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+113082,47,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+113083,43,2,1,0,130,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+113091,47,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113110,39,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+113113,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113117,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113123,33,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+113131,66,2,1,100,8,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",16.6355323334387
+113142,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113155,54,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+113158,48,1,0,125,2.5,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",2.29072682968539
+113162,69,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113164,71,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+113187,22,2,0,250,9,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",19.775021196026
+113197,24,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+113200,46,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+113202,66,2,0,0,27,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",88.9875953821169
+113220,37,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+113231,62,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113262,41,1,0,0,65,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",271.335172543216
+113271,49,2,0,0,130,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+113275,70,1,0,90,6,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",10.7505568153683
+113294,46,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+113300,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113328,18,2,0,0,200,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",1059.66347330961
+113332,26,2,1,0,125,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",603.539217162788
+113337,40,2,0,0,130,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",632.779478559226
+113348,80,2,0,0,0.16,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.29321303419973
+113348,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113359,14,1,0,180,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+113366,26,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+113369,51,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113371,62,2,0,120,36,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",129.00668178442
+113372,62,1,0,57,16,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",44.3614195558365
+113373,33,1,0,90,10,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",23.0258509299405
+113378,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113381,31,2,0,18.75,4.5,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",6.76834828549323
+113381,31,2,0,15,26,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",84.7105099885585
+113398,49,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+113409,30,2,0,60,18,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",52.026691642131
+113429,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+113429,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+113436,47,2,1,60,7.25,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",14.3622606492827
+113436,47,2,1,0,18,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",52.026691642131
+113451,45,2,0,180,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113470,29,2,0,60,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+113475,80,2,0,45,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+113479,60,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113501,56,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+113507,19,2,1,0,65,"Iron-Deficient","1","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+113510,68,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113542,52,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113556,23,2,0,120,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+113565,46,2,0,0,130,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+113569,46,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",1.55806842393169
+113581,75,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113613,20,2,1,0,65,"Iron-Deficient","1","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+113615,54,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113620,48,2,1,20,0.9999,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",-9.9994999833314e-05
+113621,58,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113647,58,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113647,58,1,0,0,0.08,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.20205829154466
+113654,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+113656,17,1,0,0,9,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",19.775021196026
+113656,17,1,0,150,9,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",19.775021196026
+113661,24,2,0,45,9,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",19.775021196026
+113676,34,2,1,40,2.0001,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",1.38646367833791
+113678,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113685,4,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+113690,24,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+113702,57,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113715,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+113716,47,2,0,90,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+113723,38,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+113734,74,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",1.55806842393169
+113753,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+113753,80,2,0,30,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+113773,68,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113775,67,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+113776,53,1,0,500,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113806,15,2,1,20,0.9999,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",-9.9994999833314e-05
+113824,36,1,0,0,28,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",93.3017262849057
+113829,15,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+113830,31,2,1,120,28,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+113840,62,1,0,0,3,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",3.29583686600433
+113856,63,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+113868,37,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+113880,74,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+113888,73,1,0,0,0.18,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.308663717056547
+113895,69,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+113898,46,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+113903,65,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113906,33,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+113911,70,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113940,3,1,0,60,3,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",3.29583686600433
+113941,66,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+113971,71,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+113973,62,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113973,62,2,0,0,0.7,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.249672460757113
+113978,77,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+113978,77,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+113987,33,1,0,21,0.24,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",-0.342507925353635
+113991,42,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114031,80,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114032,65,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114039,62,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114039,62,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+114042,52,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114082,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114082,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+114087,44,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+114093,44,2,1,150,42.5,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",159.353923227041
+114095,42,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114108,63,2,0,0,25,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",80.471895621705
+114124,36,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+114157,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114161,62,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114163,64,2,1,0,0.4,"Iron-Deficient","1","1","Female","5",">50","0","Does Not Take VitC",-0.366516292749662
+114164,12,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+114189,73,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+114194,42,1,0,90,8,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",16.6355323334387
+114212,66,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114213,79,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114215,2,1,0,30,9,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",19.775021196026
+114231,57,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114237,52,2,0,30,10,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",23.0258509299405
+114237,52,2,0,90,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+114240,76,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114254,54,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+114257,41,1,0,0,2,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",1.38629436111989
+114282,14,1,0,200,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+114298,70,2,0,0,15,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",40.6207530165332
+114300,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+114305,64,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+114311,58,1,0,120,36,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",129.00668178442
+114319,19,2,1,60,3,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",3.29583686600433
+114320,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114324,70,2,0,250,7.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",15.111772654067
+114332,80,2,0,0,28,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",93.3017262849057
+114332,80,2,0,100,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+114355,42,2,0,90,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+114366,79,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114371,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114378,14,1,0,50,2,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",1.38629436111989
+114388,52,2,0,50,1.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.608197662162247
+114405,36,2,0,40,1.9998,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",1.38595574168411
+114422,38,2,0,75,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+114425,43,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114440,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+114448,40,2,0,60,18,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",52.026691642131
+114449,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114450,65,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+114466,27,2,0,0,27,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",88.9875953821169
+114481,50,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114482,74,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114504,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+114505,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114521,54,2,0,200,16,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",44.3614195558365
+114521,54,2,0,0,0.24,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.342507925353635
+114536,28,2,0,0,36,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",129.00668178442
+114546,45,2,0,84,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114547,64,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+114548,46,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+114555,45,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+114555,45,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114578,41,2,0,0,130,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+114608,49,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+114615,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+114619,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114647,44,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+114651,31,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+114664,60,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+114671,29,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+114688,28,2,0,0,130,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",632.779478559226
+114691,34,2,1,0,90,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",404.982870329724
+114691,34,2,1,60,28,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+114693,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114701,38,2,0,250,5.75,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",10.0578991651532
+114724,65,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+114739,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114744,75,2,0,45,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+114755,18,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+114759,25,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",1.38646367833791
+114775,44,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+114775,44,2,1,30,9,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",19.775021196026
+114793,61,2,0,0,3,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",3.29583686600433
+114802,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+114803,35,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+114808,39,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+114828,80,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114841,20,1,0,0,65,"Non-Iron-Deficient","0","0","Male",NA,NA,"0","Does Not Take VitC",271.335172543216
+114848,39,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+114867,80,1,0,0,0.13,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.265228707708452
+114869,13,2,0,2,8,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",16.6355323334387
+114872,40,1,0,90,8,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",16.6355323334387
+114879,55,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+114897,79,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+114898,78,1,0,54,3,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",3.29583686600433
+114907,36,2,0,90,6,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",10.7505568153683
+114909,17,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+114926,61,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+114940,39,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+114962,61,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+114970,34,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+114995,62,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115006,29,2,0,40,50,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",195.601150271407
+115006,29,2,0,150,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+115007,72,2,0,61,10,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",23.0258509299405
+115015,73,2,0,0,0.08,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.20205829154466
+115018,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+115036,54,2,1,75,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+115045,22,2,0,180,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+115056,56,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+115057,69,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+115065,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+115067,29,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+115089,59,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+115099,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+115121,13,1,0,120,36,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",129.00668178442
+115122,41,2,0,0,0.8,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",-0.178514841051368
+115133,55,2,0,60,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+115142,63,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+115191,19,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+115193,29,2,0,60,6,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",10.7505568153683
+115202,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115208,17,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+115217,72,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115238,47,2,0,100,8,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",16.6355323334387
+115240,41,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+115240,41,2,1,75,18,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",52.026691642131
+115243,34,2,0,75,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+115247,80,2,0,0,0.8,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.178514841051368
+115249,57,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+115253,39,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+115268,2,2,0,45,5,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",8.0471895621705
+115272,58,1,0,0,130,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",632.779478559226
+115277,56,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115279,73,1,0,0,0.2,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.32188758248682
+115288,56,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+115289,33,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+115290,60,1,0,590,6,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",10.7505568153683
+115300,42,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+115303,50,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115305,54,2,0,60,20,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",59.9146454710798
+115308,41,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+115309,71,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+115316,46,2,0,120,28,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",93.3017262849057
+115316,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+115325,27,2,1,0,65,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+115333,26,1,0,0,4,"Non-Iron-Deficient","0","0","Male","2","21-30","0","Does Not Take VitC",5.54517744447956
+115350,23,2,0,60,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+115363,60,2,0,100,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+115369,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+115377,40,1,0,90,8,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",16.6355323334387
+115390,45,2,0,100,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+115398,38,2,0,60,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+115403,17,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+115412,54,2,0,85,27,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",88.9875953821169
+115440,80,2,0,0,56,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",225.419694681168
+115445,61,1,0,0,0.24,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.342507925353635
+115450,26,2,0,170,54,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",215.405138514471
+115450,26,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+115459,76,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+115466,61,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+115475,3,1,0,60,3,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",3.29583686600433
+115485,54,2,0,57,16,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",44.3614195558365
+115485,54,2,0,50,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+115490,56,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+115495,60,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115501,80,2,0,0,0.4,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.366516292749662
+115503,72,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+115511,38,1,0,45,6,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",10.7505568153683
+115515,59,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115546,56,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115550,54,2,0,120,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+115551,23,2,0,200,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+115572,17,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+115577,49,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+115578,40,2,0,84,18,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",52.026691642131
+115588,75,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+115604,68,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+115605,55,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115615,47,2,0,90,6,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",10.7505568153683
+115634,32,1,0,63,1.25,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",0.278929439142762
+115647,73,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115662,74,1,0,0,0.5,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.346573590279973
+115671,67,2,0,0,2,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",1.38629436111989
+115675,23,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+115692,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115709,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115714,61,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+115727,72,2,0,120,36,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",129.00668178442
+115737,70,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115746,70,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+115759,53,2,0,120,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115770,42,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+115772,34,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+115843,76,2,0,0,0.4,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.366516292749662
+115849,49,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",1.55806842393169
+115851,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115853,32,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+115855,41,1,0,180,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+115856,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115884,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115888,75,2,0,85,27,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",88.9875953821169
+115902,31,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+115934,75,2,0,333,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+115934,75,2,0,2,1.44,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.525086083566589
+115948,17,2,0,60,3,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",3.29583686600433
+115962,20,2,1,120,28,"Iron-Deficient","1","1","Female",NA,NA,"1","Takes VitC",93.3017262849057
+115963,79,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+115986,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+115991,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+115992,68,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+116004,55,2,0,120,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+116004,55,2,0,50,1.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.608197662162247
+116010,73,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116012,60,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+116067,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+116074,27,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116075,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+116119,37,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+116153,57,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116183,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+116203,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116207,34,2,0,75,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+116214,14,1,0,0,2.0001,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",1.38646367833791
+116246,13,1,0,90,10,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",23.0258509299405
+116280,69,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116290,31,2,0,200,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+116294,29,2,1,60,18,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116296,19,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+116306,25,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+116312,55,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+116345,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116349,59,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+116352,26,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+116354,56,2,0,120,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+116356,18,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+116369,46,1,0,0,65,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",271.335172543216
+116373,71,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+116375,54,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+116389,75,2,0,80,3.9999,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",5.54493881629346
+116404,70,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116405,66,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116413,2,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+116415,50,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116419,15,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+116428,47,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+116430,53,1,0,0,0.45,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.359328463297997
+116449,65,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+116453,31,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+116453,31,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+116454,31,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+116454,31,2,0,30,14.5,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",38.7751554166847
+116457,75,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+116457,75,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116476,5,1,0,90,2.5,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",2.29072682968539
+116490,36,2,0,0,0.16,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",-0.29321303419973
+116491,14,2,1,60,18,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",52.026691642131
+116499,53,2,0,0,4.2,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",6.02735500621516
+116507,53,2,0,150,22,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",68.002933973883
+116508,37,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+116510,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116511,58,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+116521,16,1,0,0,0.6,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",-0.306495374259594
+116529,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+116535,32,2,0,0,45,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",171.299812039664
+116542,64,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+116557,35,1,0,0,10,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",23.0258509299405
+116560,39,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+116569,63,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+116575,18,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+116595,26,2,0,60,45,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",171.299812039664
+116609,43,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+116620,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+116637,30,2,0,60,28,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",93.3017262849057
+116646,60,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116651,14,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+116655,41,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+116656,40,1,0,0,1.5,"Non-Iron-Deficient","0","0","Male",NA,NA,"0","Does Not Take VitC",0.608197662162247
+116673,49,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+116675,42,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+116678,20,2,0,0,65,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+116680,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+116687,29,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+116687,29,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116705,21,1,0,0,65,"Non-Iron-Deficient","0","0","Male","2","21-30","0","Does Not Take VitC",271.335172543216
+116720,33,2,1,90,10,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",23.0258509299405
+116744,24,2,0,45,10,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",23.0258509299405
+116760,55,2,0,100,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+116766,51,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116791,62,2,0,200,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116796,31,2,0,9,0.2,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",-0.32188758248682
+116802,59,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+116806,49,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+116810,24,1,0,45,6,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",10.7505568153683
+116812,27,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116813,21,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+116823,79,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116829,25,1,0,120,36,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",129.00668178442
+116838,13,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",1.55806842393169
+116844,27,2,1,60,18,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116904,60,2,0,200,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116906,66,2,0,0,1.2,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",0.218785868152746
+116906,66,2,0,20,0.9999,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",-9.9994999833314e-05
+116907,76,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+116911,63,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+116912,28,2,0,90,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116941,27,2,0,60,7.25,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",14.3622606492827
+116941,27,2,0,84,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+116948,5,1,0,90,10,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",23.0258509299405
+116955,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+116958,4,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+116963,47,2,1,100,9,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",19.775021196026
+116967,21,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+116975,45,1,0,0,65,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",271.335172543216
+116984,56,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+116994,77,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117013,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+117019,71,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117036,70,1,0,150,9,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",19.775021196026
+117049,21,2,1,60,18,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",52.026691642131
+117050,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117054,38,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+117054,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+117062,43,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+117065,4,2,0,25,2.5,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",2.29072682968539
+117102,31,2,0,10,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+117108,69,1,0,0,3,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",3.29583686600433
+117120,59,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117131,56,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+117187,72,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117208,62,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+117211,70,1,0,120,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117234,62,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+117243,59,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117244,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+117258,1,2,0,30,9,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",19.775021196026
+117259,12,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+117260,62,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+117261,80,2,0,0,1.4,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",0.471061131269698
+117273,65,2,0,120,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+117274,41,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+117295,52,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+117295,52,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117331,57,1,0,0,1,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",0
+117370,52,1,0,0,45,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",171.299812039664
+117375,49,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+117394,24,2,1,120,28,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+117404,14,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+117460,60,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+117465,54,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+117465,54,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117468,21,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+117475,69,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117487,5,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+117498,68,2,0,60,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+117531,32,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+117543,31,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+117556,39,2,1,60,18,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+117559,48,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+117581,22,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+117591,1,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+117595,35,2,1,120,28,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+117600,27,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+117638,76,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117641,23,2,0,90,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+117647,32,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+117658,15,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+117660,71,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117662,38,2,0,60,9,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",19.775021196026
+117666,67,2,0,120,27,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",88.9875953821169
+117674,12,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+117687,45,2,0,30,1,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",0
+117690,39,2,0,75,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+117725,28,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+117727,74,2,0,0,0.8,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.178514841051368
+117728,72,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+117734,67,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117737,37,1,0,90,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+117755,53,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117756,17,2,0,0,90,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",404.982870329724
+117764,14,2,0,40,2,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",1.38629436111989
+117774,28,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+117778,44,2,0,60,6,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",10.7505568153683
+117778,44,2,0,0,10,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",23.0258509299405
+117791,12,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+117820,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117840,35,2,0,75,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+117850,40,2,0,0,65,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+117858,60,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+117865,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+117877,41,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+117878,31,1,0,0,65,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",271.335172543216
+117883,2,1,1,0,15,"Iron-Deficient","1","0","Male","0","1-10","0","Does Not Take VitC",40.6207530165332
+117885,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+117903,46,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+117923,41,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+117927,17,1,0,90,10,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",23.0258509299405
+117936,19,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+117957,76,2,0,150,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+117965,51,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+117970,4,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+117975,22,2,0,60,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+117976,3,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+117989,64,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+117997,74,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+117998,43,1,0,90,8,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",16.6355323334387
+118008,44,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+118018,31,2,0,100,3,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",3.29583686600433
+118022,60,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118025,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118042,53,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118044,48,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+118045,51,1,0,0,3,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",3.29583686600433
+118050,69,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+118069,28,2,0,120,9,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",19.775021196026
+118075,26,2,0,0,133,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",650.416434053493
+118105,59,2,0,100,9,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",19.775021196026
+118122,54,2,0,120,54,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",215.405138514471
+118128,56,2,0,18,20,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",59.9146454710798
+118135,49,2,0,250,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+118146,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+118147,30,2,0,60,3,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",3.29583686600433
+118164,49,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+118171,30,2,1,60,28,"Iron-Deficient","1","1","Female",NA,NA,"1","Takes VitC",93.3017262849057
+118172,43,2,0,100,8,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",16.6355323334387
+118185,32,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+118190,45,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+118201,25,1,0,90,8,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",16.6355323334387
+118232,25,2,0,120,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+118244,60,2,0,500,0.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",-0.346573590279973
+118247,74,2,0,0,195,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",1028.23491391993
+118253,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+118254,63,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118258,29,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+118262,28,1,0,90,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+118267,47,2,0,100,4,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",5.54517744447956
+118283,37,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+118284,43,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+118317,33,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+118322,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118343,37,1,0,0,65,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",271.335172543216
+118343,37,1,0,300,10,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",23.0258509299405
+118349,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+118358,51,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+118378,23,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+118379,14,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+118380,70,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+118381,55,2,0,333,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+118382,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+118396,57,2,0,200,5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",8.0471895621705
+118407,51,2,1,60,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+118409,37,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+118418,56,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+118423,41,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+118425,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+118435,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118438,5,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+118458,65,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+118471,61,1,0,0,0.7,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.249672460757113
+118482,38,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+118494,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+118498,4,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+118506,3,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+118515,76,1,0,57,16,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",44.3614195558365
+118517,16,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+118525,69,1,0,45,6,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",10.7505568153683
+118556,63,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+118556,63,1,0,0,2.7,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",2.68177978712777
+118560,2,2,0,30,9,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",19.775021196026
+118561,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118573,57,2,0,120,36,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",129.00668178442
+118577,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+118586,37,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+118595,71,2,0,0,1.2,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",0.218785868152746
+118614,66,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118622,69,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+118626,12,1,0,120,36,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",129.00668178442
+118633,59,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+118636,60,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+118638,70,2,0,0,0.5,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.346573590279973
+118643,50,2,1,0,130,"Iron-Deficient","1","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+118658,30,1,0,130,18,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",52.026691642131
+118662,70,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118678,78,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+118679,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+118684,71,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+118692,65,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+118701,45,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+118728,31,1,0,90,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+118735,80,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118742,80,2,1,60,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+118744,14,1,0,90,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+118756,29,2,0,85,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+118764,76,2,0,0,200,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",1059.66347330961
+118793,5,2,0,90,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+118805,56,1,0,45,6,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",10.7505568153683
+118831,38,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+118833,53,2,0,0,195,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",1028.23491391993
+118841,59,1,0,120,36,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",129.00668178442
+118879,36,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+118883,29,2,0,0,30,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",102.035921449865
+118887,64,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+118899,70,1,0,45,4.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",6.76834828549323
+118919,1,1,0,35,10,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",23.0258509299405
+118931,80,2,1,60,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+118953,76,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+118972,52,2,0,180,36,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",129.00668178442
+118985,54,1,0,0,1,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",0
+118985,54,1,0,8,2.25,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",1.82459298648674
+119034,33,2,0,100,30,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",102.035921449865
+119039,2,1,0,90,10,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",23.0258509299405
+119055,61,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+119059,49,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119067,47,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+119068,46,1,0,0,27,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",88.9875953821169
+119070,25,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+119070,25,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+119085,43,2,1,60,18,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119085,43,2,1,0,28,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",93.3017262849057
+119092,67,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119101,68,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+119102,66,2,0,125,1.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.608197662162247
+119112,33,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+119132,59,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+119139,73,2,0,0,27,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",88.9875953821169
+119142,69,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+119149,48,1,0,0,0.18,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",-0.308663717056547
+119156,22,2,0,60,9,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",19.775021196026
+119157,74,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119187,45,1,0,45,6,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",10.7505568153683
+119192,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119199,2,2,0,35,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+119201,25,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+119202,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+119206,69,2,0,500,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119210,48,2,0,60,28,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",93.3017262849057
+119219,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119237,67,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119239,71,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119242,61,2,0,120,28,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",93.3017262849057
+119287,77,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119290,12,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+119299,56,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+119320,49,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+119320,49,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119326,48,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+119328,25,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",1.38646367833791
+119328,25,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+119335,77,2,0,40,1.9998,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.38595574168411
+119337,75,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119356,64,1,0,0,0.08,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.20205829154466
+119362,14,2,1,60,18,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",52.026691642131
+119363,70,1,0,0,195,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",1028.23491391993
+119364,73,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119383,34,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+119394,37,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+119430,43,1,0,400,36,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",129.00668178442
+119493,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+119541,49,2,0,84,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119543,54,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+119548,76,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119565,56,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+119566,17,2,0,0,25,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",80.471895621705
+119583,22,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+119587,70,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+119616,1,2,0,35,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+119622,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119645,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119651,80,2,0,60,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+119658,70,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+119676,24,2,0,85,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+119692,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+119694,20,2,1,0,65,"Iron-Deficient","1","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+119696,45,2,1,0,130,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",632.779478559226
+119738,66,1,0,0,6.012,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",10.7840699210071
+119745,45,2,0,90,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119758,19,2,0,180,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+119762,62,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119764,2,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+119765,80,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+119765,80,1,0,0,195,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",1028.23491391993
+119774,5,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+119781,40,1,0,90,8,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",16.6355323334387
+119788,80,1,0,0,0.16,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.29321303419973
+119791,66,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+119799,70,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119807,58,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+119809,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+119809,50,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+119814,71,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+119832,41,2,0,120,28,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",93.3017262849057
+119864,80,1,0,0,0.08,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.20205829154466
+119878,30,2,0,30,9,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",19.775021196026
+119892,24,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+119896,43,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+119911,69,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+119913,80,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+119928,58,2,0,80,14,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",36.9468026146136
+119935,38,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+119937,37,2,0,84,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+119937,37,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+119941,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+119957,16,2,0,120,28,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",93.3017262849057
+119959,59,1,0,250,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+119972,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+119982,32,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+119989,33,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",1.38646367833791
+120000,29,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+120018,30,2,1,0,65,"Iron-Deficient","1","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+120030,34,1,0,0,1,"Non-Iron-Deficient","0","0","Male","3","31- 40","0","Does Not Take VitC",0
+120033,20,2,0,120,28,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",93.3017262849057
+120040,67,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+120048,23,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+120052,72,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+120053,23,2,0,0,130,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",632.779478559226
+120076,45,2,0,60,3,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",3.29583686600433
+120079,24,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+120084,33,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+120090,45,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+120097,70,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120110,50,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120129,37,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+120130,25,2,1,120,28,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+120131,50,1,0,75,0.4,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",-0.366516292749662
+120138,15,2,0,40,2.0001,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",1.38646367833791
+120154,23,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+120159,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120159,80,2,0,0,0.08,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.20205829154466
+120160,27,2,0,75,40,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",147.555178164557
+120161,1,1,0,0,15,"Non-Iron-Deficient","0","0","Male","0","1-10","0","Does Not Take VitC",40.6207530165332
+120170,17,1,0,60,18,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",52.026691642131
+120171,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+120179,23,2,0,150,1.8,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",1.05801599682381
+120180,72,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120190,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+120206,41,1,0,90,8,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",16.6355323334387
+120212,61,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+120228,48,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+120230,20,2,0,0,65,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+120248,69,2,0,100,27,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",88.9875953821169
+120259,61,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+120268,47,2,0,120,28,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",93.3017262849057
+120270,61,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+120290,34,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+120310,52,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120311,65,2,0,150,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120317,1,2,0,0,65,"Non-Iron-Deficient","0","1","Female","0","1-10","0","Does Not Take VitC",271.335172543216
+120322,72,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120330,50,1,0,270,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+120338,66,2,0,0,50,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",195.601150271407
+120340,78,2,1,0,18,"Iron-Deficient","1","1","Female","5",">50","0","Does Not Take VitC",52.026691642131
+120343,65,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+120343,65,2,0,0,3,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",3.29583686600433
+120361,61,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120384,78,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120386,37,2,0,0,36,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",129.00668178442
+120426,52,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+120427,19,2,1,0,18,"Iron-Deficient","1","1","Female","1","11-20","0","Does Not Take VitC",52.026691642131
+120430,4,2,0,0,150,"Non-Iron-Deficient","0","1","Female","0","1-10","0","Does Not Take VitC",751.595294114438
+120440,55,2,0,0,0.7,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.249672460757113
+120440,55,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120444,62,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120450,61,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120462,61,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120463,54,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+120473,80,2,0,60,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+120535,70,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120535,70,2,0,40,2,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.38629436111989
+120536,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+120588,1,2,0,35,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+120591,67,2,0,0,18,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",52.026691642131
+120591,67,2,0,57,16,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",44.3614195558365
+120593,68,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+120598,29,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+120598,29,2,0,250,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+120607,49,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+120608,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+120613,80,2,0,90,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120624,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+120650,54,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120656,80,1,0,0,130,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",632.779478559226
+120675,45,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+120676,45,2,0,100,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+120677,21,1,0,0,100,"Non-Iron-Deficient","0","0","Male","2","21-30","0","Does Not Take VitC",460.517018598809
+120699,71,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120700,58,1,0,50,16.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",46.2554462849578
+120717,36,2,0,120,6,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",10.7505568153683
+120718,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+120737,20,2,0,120,28,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",93.3017262849057
+120739,63,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+120742,65,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120797,71,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+120804,40,2,0,0,65,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+120833,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+120842,30,2,0,60,18,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",52.026691642131
+120848,32,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+120851,56,2,0,0,0.7,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.249672460757113
+120874,32,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+120887,53,2,0,57,16,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",44.3614195558365
+120899,60,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+120922,46,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+120933,68,1,0,0,0.7,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.249672460757113
+120942,1,2,0,43.75,12.5,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",31.5716080538532
+120943,68,1,0,0,0.7,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.249672460757113
+120960,61,2,0,120,36,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",129.00668178442
+120965,55,2,0,30,1.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.608197662162247
+120966,5,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+120967,57,1,0,0,4.2,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",6.02735500621516
+120987,50,2,0,0,18,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",52.026691642131
+121033,19,2,1,0,65,"Iron-Deficient","1","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+121063,42,2,0,90,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+121089,72,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+121092,40,2,0,0,65,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",271.335172543216
+121116,42,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+121126,53,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121142,80,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+121150,80,2,0,0,45,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",171.299812039664
+121162,42,2,0,90,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+121162,42,2,0,40,12,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",29.818879797456
+121165,22,1,0,1000,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+121166,1,2,0,90,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+121197,61,1,0,0,0.24,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.342507925353635
+121233,5,2,0,0.2,1,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",0
+121236,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121237,63,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+121247,44,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+121249,77,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+121262,64,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+121272,80,2,0,200,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+121277,60,2,0,1000,1,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0
+121279,28,2,0,100,8,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",16.6355323334387
+121284,46,1,0,0,0.33,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",-0.365858666092132
+121299,64,2,0,175,22,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",68.002933973883
+121299,64,2,0,0,1.7,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",0.90206802680569
+121317,61,1,0,0,45,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",171.299812039664
+121340,37,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+121343,45,2,0,67.5,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+121343,45,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+121348,49,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+121359,76,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+121364,27,2,0,85,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+121368,55,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121381,23,2,0,90,54,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",215.405138514471
+121398,80,1,0,0,5,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",8.0471895621705
+121400,33,2,0,30,9,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",19.775021196026
+121418,77,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121422,31,2,0,15,26,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",84.7105099885585
+121422,31,2,0,0,52,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",205.464673366234
+121431,19,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+121442,66,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121476,44,2,1,60,18,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",52.026691642131
+121476,44,2,1,0,65,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+121477,80,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+121508,76,2,0,40,5.9994,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7488817896878
+121508,76,2,0,0,28,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",93.3017262849057
+121514,3,1,0,30,9,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",19.775021196026
+121525,65,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121526,56,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+121534,38,2,0,250,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+121551,70,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+121559,52,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121579,48,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+121586,2,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+121590,63,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121605,2,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+121610,31,2,1,35,32.5,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",113.14030290341
+121635,72,2,0,84,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121641,44,2,0,0,0.8,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",-0.178514841051368
+121641,44,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+121647,63,2,0,375,22.5,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",70.0540944572334
+121657,49,2,0,60,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+121664,40,1,0,60,18,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",52.026691642131
+121674,34,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+121716,78,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121720,79,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121722,79,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121728,62,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121735,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121784,74,2,0,0,28,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",93.3017262849057
+121799,30,2,0,0,130,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",632.779478559226
+121810,31,2,0,60,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+121811,4,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+121816,78,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+121822,57,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+121824,50,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+121851,29,2,1,0,65,"Iron-Deficient","1","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+121867,65,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+121867,65,1,0,0,0.4,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.366516292749662
+121873,68,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121877,33,2,1,120,28,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+121882,38,1,0,200,5,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",8.0471895621705
+121882,38,1,0,90,6,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",10.7505568153683
+121891,53,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121905,63,1,0,200.01,3.3335,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",4.01361001405377
+121906,26,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+121948,51,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+121948,51,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+121981,68,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+121984,61,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+121986,2,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+121987,57,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122029,29,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+122037,68,1,0,0,27,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",88.9875953821169
+122048,66,2,0,60,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+122061,74,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+122063,44,2,0,180,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+122066,3,2,0,40,3,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",3.29583686600433
+122075,13,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+122078,77,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122078,77,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122092,4,2,0,0,90,"Non-Iron-Deficient","0","1","Female","0","1-10","0","Does Not Take VitC",404.982870329724
+122096,42,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+122097,38,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+122101,43,1,0,0,1,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",0
+122108,73,2,0,66.66,1.9998,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.38595574168411
+122154,72,1,0,0,0.27,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.353519996395616
+122159,77,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122169,62,2,0,0,4,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",5.54517744447956
+122171,34,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+122180,34,2,0,250,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+122216,44,1,0,60,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+122234,22,1,0,0,18,"Non-Iron-Deficient","0","0","Male","2","21-30","0","Does Not Take VitC",52.026691642131
+122276,28,2,0,0,9,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",19.775021196026
+122277,13,1,0,90,10,"Non-Iron-Deficient","0","0","Male","1","11-20","1","Takes VitC",23.0258509299405
+122279,17,2,1,120,28,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",93.3017262849057
+122282,25,2,0,85,27,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",88.9875953821169
+122286,64,2,0,175,22,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",68.002933973883
+122287,64,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122294,30,2,0,120,56,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",225.419694681168
+122295,70,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122297,59,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+122301,39,2,1,60,18,"Iron-Deficient","1","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+122310,48,1,0,0,65,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",271.335172543216
+122318,25,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+122320,1,1,0,60,18,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",52.026691642131
+122335,28,1,0,60,8,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",16.6355323334387
+122350,39,2,0,0,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",93.3017262849057
+122355,70,2,0,150,1.8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",1.05801599682381
+122359,66,1,0,50,2,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",1.38629436111989
+122383,22,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+122385,47,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+122407,61,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122425,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122437,14,1,0,0,1.5,"Non-Iron-Deficient","0","0","Male","1","11-20","0","Does Not Take VitC",0.608197662162247
+122463,53,1,0,0,130,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",632.779478559226
+122499,55,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122499,55,2,0,0,1,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",0
+122512,37,2,0,85,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+122516,45,2,1,75,18,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",52.026691642131
+122552,70,2,0,90,6,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",10.7505568153683
+122555,33,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+122555,33,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+122567,71,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122571,59,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122581,31,2,0,84,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+122584,70,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122636,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122636,61,2,0,0,45,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",171.299812039664
+122647,60,2,0,120,36,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",129.00668178442
+122649,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122653,35,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+122655,56,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122657,72,1,0,100,4,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",5.54517744447956
+122662,35,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+122685,61,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122685,61,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122690,17,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+122692,44,2,0,84,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+122701,27,2,1,120,36,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",129.00668178442
+122703,53,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122713,54,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122738,4,2,0,90,10,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",23.0258509299405
+122753,72,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+122771,25,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+122814,60,2,0,20,1,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0
+122826,21,2,0,120,28,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+122828,33,2,0,120,36,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",129.00668178442
+122832,65,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+122851,31,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+122870,32,2,0,240,56,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",225.419694681168
+122874,35,2,0,90,10,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",23.0258509299405
+122881,56,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+122888,53,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122893,45,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+122898,75,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+122902,57,1,0,0,27,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",88.9875953821169
+122902,57,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+122909,64,2,0,0,0.4,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",-0.366516292749662
+122933,76,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+122946,36,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+122950,50,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122962,63,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+122972,47,2,0,0,54,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",215.405138514471
+122972,47,2,0,75,4.5,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",6.76834828549323
+122982,53,1,0,120,36,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",129.00668178442
+122984,27,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+122997,19,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+123064,44,2,1,0,0.7,"Iron-Deficient","1","1","Female","4","41-50","0","Does Not Take VitC",-0.249672460757113
+123089,56,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+123127,80,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+123148,5,2,0,40,3,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",3.29583686600433
+123164,56,1,0,57,16,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",44.3614195558365
+123168,5,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+123216,47,1,0,90,18,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",52.026691642131
+123220,31,1,0,50,2,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",1.38629436111989
+123222,33,2,0,0,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",88.9875953821169
+123224,40,2,0,40,1.9998,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",1.38595574168411
+123232,80,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+123234,30,1,0,180,18,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",52.026691642131
+123245,72,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+123261,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123265,22,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+123266,36,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+123296,79,1,0,34,1.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",0.608197662162247
+123316,38,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+123349,38,2,0,100,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+123354,34,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+123380,48,2,0,100,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+123391,40,2,0,75,18,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",52.026691642131
+123391,40,2,0,0,27,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",88.9875953821169
+123408,67,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123432,71,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+123436,48,2,0,75,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+123440,39,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+123460,41,2,1,50,9,"Iron-Deficient","1","1","Female","4","41-50","1","Takes VitC",19.775021196026
+123467,66,1,0,0,2.1,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",1.55806842393169
+123484,60,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+123496,73,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+123504,54,1,0,60,25,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",80.471895621705
+123505,23,2,0,75,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+123513,28,2,1,120,28,"Iron-Deficient","1","1","Female","2","21-30","1","Takes VitC",93.3017262849057
+123514,41,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+123515,72,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+123517,37,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+123525,32,1,0,90,8,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",16.6355323334387
+123561,12,2,1,60,18,"Iron-Deficient","1","1","Female","1","11-20","1","Takes VitC",52.026691642131
+123562,43,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+123568,68,2,0,180,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123571,54,1,0,180,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+123574,70,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+123597,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123602,34,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+123604,42,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+123606,31,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+123607,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123647,48,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+123654,53,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123667,17,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+123680,30,2,0,99.99,5.9994,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",10.7488817896878
+123689,58,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123706,36,2,0,60,18,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",52.026691642131
+123729,78,2,0,75,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123738,68,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+123788,63,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123788,63,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+123799,78,2,0,10,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123799,78,2,0,10,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123800,45,2,0,120,28,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",93.3017262849057
+123803,45,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+123805,1,1,0,60,3,"Non-Iron-Deficient","0","0","Male","0","1-10","1","Takes VitC",3.29583686600433
+123813,22,1,0,60,28,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",93.3017262849057
+123833,34,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+123860,61,2,0,150,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+123862,73,1,0,0,0.4,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.366516292749662
+123877,28,1,0,90,3.2,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",3.72208259137818
+123879,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+123881,38,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+123885,67,2,1,60,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+123898,26,2,0,0,65,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",271.335172543216
+123930,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+123931,63,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+123935,50,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+123965,52,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+123968,25,2,0,0,195,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",1028.23491391993
+123971,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+123994,64,2,0,0,130,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",632.779478559226
+124025,59,2,1,84,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+124040,78,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+124052,37,2,0,120,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+124054,28,1,0,60,18,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",52.026691642131
+124061,55,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124068,39,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+124096,53,1,1,0,65,"Iron-Deficient","1","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+124106,40,2,0,75,18,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",52.026691642131
+124106,40,2,0,0,28,"Non-Iron-Deficient","0","1","Female",NA,NA,"0","Does Not Take VitC",93.3017262849057
+124126,36,2,1,0,65,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+124127,40,2,0,90,9,"Non-Iron-Deficient","0","1","Female",NA,NA,"1","Takes VitC",19.775021196026
+124157,44,1,0,79,4.5,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",6.76834828549323
+124167,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124195,31,2,0,100,28,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",93.3017262849057
+124237,43,1,0,40,0.67,"Non-Iron-Deficient","0","0","Male","4","41-50","1","Takes VitC",-0.268319969620074
+124246,61,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+124248,49,2,0,60,3,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",3.29583686600433
+124249,32,2,0,0,65,"Non-Iron-Deficient","0","1","Female","3","31- 40","0","Does Not Take VitC",271.335172543216
+124273,25,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+124279,49,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+124279,49,2,0,20,1,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",0
+124284,55,2,1,60,18,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",52.026691642131
+124287,56,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+124289,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+124331,62,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+124342,56,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+124345,26,2,0,0,0.08,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",-0.20205829154466
+124348,71,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124377,49,2,0,0,195,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",1028.23491391993
+124380,23,2,0,60,18,"Non-Iron-Deficient","0","1","Female","2","21-30","1","Takes VitC",52.026691642131
+124381,46,2,0,0,65,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",271.335172543216
+124382,34,1,0,60,18,"Non-Iron-Deficient","0","0","Male","3","31- 40","1","Takes VitC",52.026691642131
+124390,46,1,0,0,0.05,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",-0.1497866136777
+124405,62,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+124411,59,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+124414,60,1,1,0,65,"Iron-Deficient","1","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+124415,62,1,0,60,7.5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",15.111772654067
+124417,25,2,0,0,4.2,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",6.02735500621516
+124434,23,1,0,60,8,"Non-Iron-Deficient","0","0","Male","2","21-30","1","Takes VitC",16.6355323334387
+124453,57,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124454,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124467,50,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+124477,59,1,0,0,28,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",93.3017262849057
+124481,16,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+124501,63,1,0,0,0.4,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.366516292749662
+124503,68,2,0,0,20,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",59.9146454710798
+124514,36,2,1,0,133,"Iron-Deficient","1","1","Female","3","31- 40","0","Does Not Take VitC",650.416434053493
+124516,56,2,0,0,2,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",1.38629436111989
+124516,56,2,0,60,10,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",23.0258509299405
+124526,56,2,1,0,65,"Iron-Deficient","1","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+124528,80,1,0,90,8,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",16.6355323334387
+124532,2,2,0,90,2.5,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",2.29072682968539
+124535,47,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+124578,66,1,0,0,0.4,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",-0.366516292749662
+124590,46,2,0,60,18,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",52.026691642131
+124599,17,2,0,0,65,"Non-Iron-Deficient","0","1","Female","1","11-20","0","Does Not Take VitC",271.335172543216
+124599,17,2,0,60,18,"Non-Iron-Deficient","0","1","Female","1","11-20","1","Takes VitC",52.026691642131
+124621,46,2,0,60,9,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",19.775021196026
+124643,54,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+124653,51,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124667,41,2,0,85,27,"Non-Iron-Deficient","0","1","Female","4","41-50","1","Takes VitC",88.9875953821169
+124670,80,2,0,0,65,"Non-Iron-Deficient","0","1","Female","5",">50","0","Does Not Take VitC",271.335172543216
+124670,80,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124675,1,1,1,0,25,"Iron-Deficient","1","0","Male","0","1-10","0","Does Not Take VitC",80.471895621705
+124683,62,1,0,200,5,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",8.0471895621705
+124684,51,2,0,120,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124685,50,2,0,60,18,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",52.026691642131
+124698,51,2,1,150,1.8,"Iron-Deficient","1","1","Female","5",">50","1","Takes VitC",1.05801599682381
+124717,51,2,0,2,1.44,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",0.525086083566589
+124722,46,1,0,0,4.2,"Non-Iron-Deficient","0","0","Male","4","41-50","0","Does Not Take VitC",6.02735500621516
+124741,58,1,0,0,65,"Non-Iron-Deficient","0","0","Male","5",">50","0","Does Not Take VitC",271.335172543216
+124742,56,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+124744,80,1,0,60,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
+124749,2,2,0,60,18,"Non-Iron-Deficient","0","1","Female","0","1-10","1","Takes VitC",52.026691642131
+124778,54,2,0,60,3,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",3.29583686600433
+124780,36,2,0,100,27,"Non-Iron-Deficient","0","1","Female","3","31- 40","1","Takes VitC",88.9875953821169
+124785,67,2,0,100,8,"Non-Iron-Deficient","0","1","Female","5",">50","1","Takes VitC",16.6355323334387
+124809,23,2,0,0,0.32,"Non-Iron-Deficient","0","1","Female","2","21-30","0","Does Not Take VitC",-0.364618970620277
+124813,43,2,0,0,9,"Non-Iron-Deficient","0","1","Female","4","41-50","0","Does Not Take VitC",19.775021196026
+124818,40,1,0,180,32,"Non-Iron-Deficient","0","0","Male",NA,NA,"1","Takes VitC",110.903548889591
+124821,63,1,0,57,16,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",44.3614195558365
+124822,74,1,0,90,18,"Non-Iron-Deficient","0","0","Male","5",">50","1","Takes VitC",52.026691642131
